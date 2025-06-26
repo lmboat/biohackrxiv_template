@@ -1,34 +1,49 @@
 ---
-title: 'BioHackEU23 report: Template for the very long title'
-title_short: 'BioHackEU23 #26: unknown chemical substances'
+title: 'Oncomatch- Optimizing Oncology Combination Therapy Prediction'
+title_short: 'BioITHackathon DrugCentral'
 tags:
   - cheminformatics
-  - PubChem
-  - unknown chemical substances
+  - proteomics
+  - precision medicine
 authors:
-  - name: First Author
+  - name: Shelby R. Kroeger*
+    orcid: 0009-0009-1343-299X
     affiliation: 1
-  - name: Last Author
-    orcid: 0000-0000-0000-0000
+  - name: Lisa M. Boatner*
+    orcid: 0000-0003-0757-4982
     affiliation: 2
+  - name: Manasi Ghogare*
+    orcid: 0009-0008-8765-167X
+    affiliation: 3
+  - name: Stanisław Giziński
+    orcid: 0000-0002-3695-9809
+    affiliation: 4
+  - name: Ben Busby
+    orcid: 0000-0001-5267-4988
+    affiliation: 5
 affiliations:
-  - name: First Affiliation
-    index: 1
-  - name: ELIXIR Europe
-    ror: 044rwnt51
-    index: 2
-date: 8 November 2023
+ - name: AbbVie Inc., North Chicago, IL, US
+   index: 1
+ - name: Momentum Biotechnologies, MA, US
+   index: 2
+ - name: Takeda Pharmaceuticals, MA, US
+   index: 3
+ - name: Deepflare, Warsaw, Poland
+   index: 4
+ - name: NVIDIA, CA, US
+   index: 5
+date: 26 June 2025
 cito-bibliography: paper.bib
-event: BH23EU
-biohackathon_name: "BioHackathon Europe 2023"
-biohackathon_url:   "https://biohackathon-europe.org/"
-biohackathon_location: "Barcelona, Spain, 2023"
-group: Project 26
+event: Bio IT World Hackathon 2025
+biohackathon_name: "Bio IT World Hackathon 2025"
+biohackathon_url:   " https://www.bio-itworldexpo.com/fair-data-hackathon"
+biohackathon_location: "Boston, MA, US 2025"
+group: DrugCentral
 # URL to project git repo --- should contain the actual paper.md:
-git_url: https://github.com/biohackrxiv/publication-template
+git_url: https://github.com/lmboat/biohackrxiv-template
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
-authors_short: First Author \emph{et al.}
+authors_short: Busby \emph{et al.}
 ---
 
 
