@@ -45,7 +45,10 @@ git_url: https://github.com/lmboat/biohackrxiv-template
 # bottom of the generated paper (typically the first two authors):
 authors_short: Busby \emph{et al.}
 ---
-##
+
+```html
+<br></br>
+```
 *co-first authors
 
 # Introduction
