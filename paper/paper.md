@@ -46,7 +46,7 @@ git_url: https://github.com/lmboat/biohackrxiv-template
 authors_short: Busby \emph{et al.}
 ---
 
-<br><br/>
+#
 
 *co-first authors
 
